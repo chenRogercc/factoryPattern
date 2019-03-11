@@ -1,0 +1,2 @@
+# factoryPattern
+designPattern-factory
